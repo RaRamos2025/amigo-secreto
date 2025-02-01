@@ -14,3 +14,14 @@ function agregarAmigo() {
     limpiarCampo();
   }
 }
+
+// Función actualiza listado, limpia campo y asigna elementos para agregar a hmtl
+function actualizarListaDeAmigos() {
+  let listado = document.getElementById("listaAmigos");
+  listado.innerHTML = "";
+  listadoAmigos.forEach(function(nombreAmigo) {
+      let li = document.createElement("li");
+      li.textContent = nombreAmigo;
+      listado.appendChild(li);
+  });
+}
