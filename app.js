@@ -31,4 +31,19 @@ function limpiarCampo(){
     document.getElementById("amigo").value = ""; //podría utilizar document.queryselector('#amigo').value='';
 }
 
-
+// Función sortea amigo, alerta lista vacía, elige aleatorio, selecciona y muestra
+function sortearAmigo() {
+  if (listadoAmigos.length === 0) {
+    alert("No hay amigos en la lista para sortear.");
+    return;
+  } else {
+    if (listadoAmigos.length === 1) {
+        alert("No hay suficientes amigos para sortear");
+    } else {
+        let amigoAleatorio = listadoAmigos[Math.floor(Math.random() * listadoAmigos.length)];
+        let amigoSorteado = document.getElementById("resultado");
+        console.log(amigoAleatorio)
+        amigoSorteado.innerHTML = "El amigo secreto es: " + amigoAleatorio;
+    }
+  }
+}
