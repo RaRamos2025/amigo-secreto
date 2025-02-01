@@ -11,23 +11,23 @@ Una vez sorteado el nombre solo basta con actualizar la página para comenzar co
 
 ## Funcionalidades
 
-- Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
+- Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Añadir".
 
 - Validar entrada: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
 
 - Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 
-- Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+- Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página. Si hay solo un nombre en la lista solicitará la inclusión de más.
 
 ## Lenguajes utilizados
 
 En esta aplicación se utilizan los lenguajes:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) es el lenguaje de marcado que usamos para estructurar y dar significado a nuestro contenido web.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   es el lenguaje de marcado que usamos para estructurar y dar significado a nuestro contenido web.
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) es un lenguaje de reglas de estilo que usamos para aplicar estilo a nuestro contenido HTML.
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   es un lenguaje de reglas de estilo que usamos para aplicar estilo a nuestro contenido HTML.
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) es un lenguaje de secuencias de comandos que te permite crear contenido de actualización dinámica.
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   es un lenguaje de secuencias de comandos que te permite crear contenido de actualización dinámica.
 
 ## Instalación
 
