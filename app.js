@@ -4,7 +4,7 @@ let listadoAmigos = [];
 // Función agregar, validar vacío, agregar a listado, limpiar campo y llama actualizar listado.
 function agregarAmigo() {
   let nombreAmigo = document.getElementById("amigo").value;
-  if (nombreAmigo == '') {
+  if (nombreAmigo === '') {
     alert("Debe ingresar un nombre por favor");
   } else {
     listadoAmigos.push(nombreAmigo);
