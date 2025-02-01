@@ -40,6 +40,12 @@ git clone https://github.com/RaRamos2025/amigo-secreto
 #### - Abre el archivo index.html:
 Posterior a realizar la clonación del repositorio, abrir el archivo `index.html` en el navegador presente en el equipo y utilizar la aplicación.
 
+## Visualización directa
+Puedes acceder directamente a la página web para utilizar la aplicación copiando la siguiente dirección:
+```bash
+https://raramos2025.github.io/amigo-secreto/
+```
+
 ## Capturas de pantalla
 
 ## Observaciones, mejoras o proyecciones
