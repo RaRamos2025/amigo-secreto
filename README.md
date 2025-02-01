@@ -6,8 +6,8 @@ Bienvenidos a este desafío del **Amigo Secreto**, aplicación que permite a los
 
 ## Descripción
 
-En esta página, para que el usuario pueda determinar el "amigo secreto" debe agregar nombres mediante un campo de texto y un botón "Añadir". Los nombres ingresados se muestran en una lista visible en la página, y al finalizar, un botón "Sortear Amigo" selecciona uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.
-Adicionalmente se incorpora un botón "Reiniciar" que permite generar una nueva lista y realizar el sorteo nuevamente.
+En esta página, para que el usuario pueda determinar el "amigo secreto" debe agregar nombres mediante un campo de texto y un botón "Añadir". Los nombres ingresados se muestran en una lista visible en la página, y se muestran alertas si el campo ingresado es vacío o si solo se ha ingresado un nombre lo que es insuficiente para realizar el sorteo. Al finalizar, un botón "Sortear Amigo" selecciona uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.
+Una vez sorteado el nombre solo basta con actualizar la página para comenzar con un nuevo listado y así realizar un nuevo sorteo.
 
 ## Funcionalidades
 
@@ -41,6 +41,10 @@ git clone xxxrepositorio por definirxxx
 Posterior a realizar la clonación del repositorio, abrir el archivo `index.html` en el navegador presente en el equipo y utilizar la aplicación.
 
 ## Capturas de pantalla
+
+## Observaciones, mejoras o proyecciones
+Para este programa totalmente funcional se puede realizar igualmente mejoras tales como forzar solo el ingreso de un nombre solo una vez, agregar boton reiniciar que reestablezca la página a sus condiciones iniciales, para un listado permitir solo una ve la elección de un normbre y que una vez elegido sea eliminado de la lista para continuar con los restantes.
+Funcionalidades interesantes que se espera trabajar para mejorar funcionalidades.
 
 ## Licencia
 
