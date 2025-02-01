@@ -31,20 +31,20 @@ En esta aplicación se utilizan los lenguajes:
 
 ## Instalación
 
-### 1. Clona el repositorio:
+#### - Clona el repositorio:
 Copiando la siguiente línea de comandos dentro de tu equipo.
 ```bash
-git clone xxxrepositorio por definirxxx
+git clone https://github.com/RaRamos2025/amigo-secreto
 ```
 
-### 2. Abre el archivo `index.html`:
+#### - Abre el archivo index.html:
 Posterior a realizar la clonación del repositorio, abrir el archivo `index.html` en el navegador presente en el equipo y utilizar la aplicación.
 
 ## Capturas de pantalla
 
 ## Observaciones, mejoras o proyecciones
 Para este programa totalmente funcional se puede realizar igualmente mejoras tales como forzar solo el ingreso de un nombre solo una vez, agregar boton reiniciar que reestablezca la página a sus condiciones iniciales, para un listado permitir solo una ve la elección de un normbre y que una vez elegido sea eliminado de la lista para continuar con los restantes.
-Funcionalidades interesantes que se espera trabajar para mejorar funcionalidades.
+Funcionalidades interesantes que se espera trabajar para ir mejorando.
 
 ## Licencia
 
