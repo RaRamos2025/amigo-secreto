@@ -25,3 +25,10 @@ function actualizarListaDeAmigos() {
       listado.appendChild(li);
   });
 }
+
+// Función para limpiar campo luego de cada ingreso
+function limpiarCampo(){
+    document.getElementById("amigo").value = ""; //podría utilizar document.queryselector('#amigo').value='';
+}
+
+
