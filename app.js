@@ -44,6 +44,9 @@ function sortearAmigo() {
         let amigoSorteado = document.getElementById("resultado");
         console.log(amigoAleatorio)
         amigoSorteado.innerHTML = "El amigo secreto es: " + amigoAleatorio;
+        let lista = document.getElementById('listaAmigos');
+        lista.innerHTML = "";
+        listadoAmigos = [];
     }
   }
 }
