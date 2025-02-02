@@ -7,7 +7,7 @@ Bienvenidos a este desafío del **Amigo Secreto**, aplicación que permite a los
 ## 📋Descripción
 
 En esta página, para que el usuario pueda determinar el "amigo secreto" debe agregar nombres mediante un campo de texto y un botón "Añadir". Los nombres ingresados se muestran en una lista visible en la página, y se muestran alertas si el campo ingresado es vacío o si solo se ha ingresado un nombre lo que es insuficiente para realizar el sorteo. Al finalizar, un botón "Sortear Amigo" selecciona uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.
-Una vez sorteado el nombre solo basta con actualizar la página para comenzar con un nuevo listado y así realizar un nuevo sorteo.
+Una vez sorteado el nombre se borra la lista de amigos y solo basta con ingresar nuevos nombres para un nuevo sorteo.
 
 ## 🛠️Funcionalidades
 
@@ -55,10 +55,6 @@ https://raramos2025.github.io/amigo-secreto/
 
 **Pantalla amigo sorteado**
 ![Imagen challenge Alura Latam](https://github.com/RaRamos2025/amigo-secreto/blob/main/assets/Sorteado.png)
-
-## 📌Observaciones, mejoras o proyecciones
-Para este programa totalmente funcional se puede realizar igualmente mejoras tales como forzar solo el ingreso de un nombre solo una vez, agregar boton reiniciar que reestablezca la página a sus condiciones iniciales, para un listado permitir solo una ve la elección de un normbre y que una vez elegido sea eliminado de la lista para continuar con los restantes.
-Funcionalidades interesantes que se espera trabajar para ir mejorando.
 
 ## ✒️Licencia
 Este proyecto es de código abierto distribuido bajo la licencia MIT. Desarrolado por **Rodrigo Ramos.**
